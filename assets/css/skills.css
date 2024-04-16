@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.skilli1{
+    position: relative;
+}
+.skill1{
+    position: absolute;
+    top: 200px; 
+    left: 850px; 
+    font-size: 20px;
+}
+li{
+    color: azure;
+}
+.skill1 h4{
+    color: aqua;
+}
+h1{
+    position: absolute;
+    top: 120px;
+    left: 600px;
+}
+.skilli2{
+    border-radius: 50%;
+}
+#navbarNav{
+    margin-left: 700px;
+}

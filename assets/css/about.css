@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.abouti1{
+    position: relative;
+}
+.about1,.about2{
+    position: absolute;
+    color: azure;
+    list-style-type: none;
+}
+.about1{
+    top: 120px;
+}
+.about2{
+    left: 150px;
+    top: 200px;
+}
+.abouti2{
+    border-radius: 50%;
+}
+#navbarNav{
+    margin-left: 700px;
+}
